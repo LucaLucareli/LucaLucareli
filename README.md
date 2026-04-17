@@ -25,7 +25,7 @@ Sou um desenvolvedor focado em construir sistemas **escaláveis e de alta perfor
 ### Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,ts,python,java,nodejs,nest,npm,prisma,docker,gcp,aws,azure,terraform,docker,linux,git,vim,neovim,bash&perline=10" />
+  <img src="https://skillicons.dev/icons?i=go,rust,ts,python,java,lua,nodejs,nest,npm,prisma,docker,gcp,aws,azure,terraform,linux,git,vim,neovim,bash&perline=10" />
 </div>
 
 #### Databases & Storage
