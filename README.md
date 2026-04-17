@@ -56,9 +56,7 @@ Sou um desenvolvedor focado em construir sistemas **escaláveis e de alta perfor
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LucaLucareli&theme=react-dark)
 
-
 ---
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucaLucareli/LucaLucareli/output/pacman-contribution-graph-dark.svg">
