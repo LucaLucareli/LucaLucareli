@@ -53,7 +53,7 @@ Minha abordagem combina **Clean Architecture**, **design orientado a domínio** 
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucaLucareli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
@@ -68,7 +68,7 @@ Minha abordagem combina **Clean Architecture**, **design orientado a domínio** 
 
 <div align="center">
 
-  <h2>🛠️ Core Systems</h2>
+  <h2> Core Systems</h2>
   <p><em>High-performance services built with Go and Rust</em></p>
 
   <p>
