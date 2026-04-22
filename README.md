@@ -28,7 +28,7 @@ Minha abordagem combina **Clean Architecture**, **design orientado a domínio** 
 ### Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,ts,python,java,lua,nodejs,nest,npm,prisma,docker,gcp,aws,azure,terraform,linux,git,vim,neovim,bash&perline=10" />
+  <img src="https://skillicons.dev/icons?i=go,rust,ts,python,java,nodejs,nest,npm,prisma,docker,gcp,aws,azure,terraform,linux,git,vim,neovim&perline=9" />
 </div>
 
 <div align="center">
