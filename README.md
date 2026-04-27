@@ -75,7 +75,7 @@ Minha abordagem combina **Clean Architecture**, **design orientado a domínio** 
     <a href="https://github.com/LucaLucareli/api-golang/pulse">
       <img src="https://img.shields.io/badge/Go_Service-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
     </a>
-    <a href="https://github.com/LucaLucareli/cast-rust-api/pulse">
+    <a href="https://github.com/LucaLucareli/rust-streaming-monorepo/pulse">
       <img src="https://img.shields.io/badge/Rust_Service-000000?style=for-the-badge&logo=rust&logoColor=white" />
     </a>
   </p>
