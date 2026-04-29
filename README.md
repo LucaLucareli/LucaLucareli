@@ -72,7 +72,7 @@ Minha abordagem combina **Clean Architecture**, **design orientado a domínio** 
   <p><em>High-performance services built with Go and Rust</em></p>
 
   <p>
-    <a href="https://github.com/LucaLucareli/api-golang/pulse">
+    <a href="https://github.com/LucaLucareli/go-architecture-monorepo/pulse">
       <img src="https://img.shields.io/badge/Go_Service-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
     </a>
     <a href="https://github.com/LucaLucareli/rust-streaming-monorepo/pulse">
@@ -81,8 +81,8 @@ Minha abordagem combina **Clean Architecture**, **design orientado a domínio** 
   </p>
 
   <p>
-    <img src="https://img.shields.io/github/last-commit/LucaLucareli/api-golang?color=00ADD8&label=Go%20Last%20Update&style=flat-square" />
-    <img src="https://img.shields.io/github/last-commit/LucaLucareli/cast-rust-api?color=000000&label=Rust%20Last%20Update&style=flat-square" />
+    <img src="https://img.shields.io/github/last-commit/LucaLucareli/go-architecture-monorepo?color=00ADD8&label=Go%20Last%20Update&style=flat-square" />
+    <img src="https://img.shields.io/github/last-commit/LucaLucareli/rust-streaming-monorepo?color=000000&label=Rust%20Last%20Update&style=flat-square" />
   </p>
 
 </div>
